@@ -1,0 +1,10 @@
+.card-title {
+  margin-top: 10px;
+  &-top input {
+    width: 100%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    box-shadow: 1px 2px 10px 1px rgb(121, 112, 112);
+  }
+}

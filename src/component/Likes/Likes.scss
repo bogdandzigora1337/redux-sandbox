@@ -1,0 +1,14 @@
+.button-controls {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button-controls button {
+  font-size: 10px;
+  width: 45%;
+  background-color: white;
+  color: rgb(34, 34, 116);
+  border: 1px solid rgb(34, 34, 116);
+  border-radius: 4px;
+}
