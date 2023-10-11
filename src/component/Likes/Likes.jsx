@@ -6,7 +6,7 @@ import "./Likes.scss";
 function Likes(props) {
   return (
     <div className="button-controls">
-      <button onClick={props.onIncrementLikes}>❤{props.likes}</button>
+      <button onClick={props.onIncrementLikes}>❤❤{props.likes}</button>
       <button onClick={props.onDecrementLikes}>Dislike</button>
     </div>
   );
